@@ -7,7 +7,7 @@
 Name:		texlive-collection-langarabic
 Epoch:		1
 Version:	20131013
-Release:	7
+Release:	8
 Summary:	Arabic
 Group:		Publishing
 URL:		http://tug.org/texlive
