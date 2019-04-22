@@ -6,8 +6,8 @@
 # catalog-version undef
 Name:		texlive-collection-langarabic
 Epoch:		1
-Version:	20180501
-Release:	2
+Version:	20190221
+Release:	1
 Summary:	Arabic
 Group:		Publishing
 URL:		http://tug.org/texlive
