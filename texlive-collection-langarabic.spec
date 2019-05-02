@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-langarabic
 Epoch:		1
-Version:	20190221
+Version:	20190228
 Release:	1
 Summary:	Arabic
 Group:		Publishing
