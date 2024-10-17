@@ -4,7 +4,7 @@ Version:	69111
 Release:	1
 Summary:	Arabic
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-langarabic.r%{version}.tar.xz
 BuildArch:	noarch
