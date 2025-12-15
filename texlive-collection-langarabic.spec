@@ -1,6 +1,6 @@
 Name:		texlive-collection-langarabic
 Epoch:		1
-Version:	74912
+Version:	76980
 Release:	1
 Summary:	Arabic
 Group:		Publishing
