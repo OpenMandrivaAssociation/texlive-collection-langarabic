@@ -1,5 +1,5 @@
 %global tl_name collection-langarabic
-%global tl_revision 78033
+%global tl_revision 79885
 
 Name:		texlive-%{tl_name}
 Version:	%{tl_revision}
@@ -14,6 +14,7 @@ BuildSystem:	texlive
 Requires:	texlive(alkalami)
 Requires:	texlive(alpha-persian)
 Requires:	texlive(amiri)
+Requires:	texlive(arabdoc)
 Requires:	texlive(arabi)
 Requires:	texlive(arabi-add)
 Requires:	texlive(arabic-book)
@@ -26,6 +27,7 @@ Requires:	texlive(collection-basic)
 Requires:	texlive(dad)
 Requires:	texlive(fariscovernew)
 Requires:	texlive(ghab)
+Requires:	texlive(hadith)
 Requires:	texlive(hvarabic)
 Requires:	texlive(hyphen-arabic)
 Requires:	texlive(hyphen-farsi)
